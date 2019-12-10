@@ -1,3 +1,11 @@
+# This repository has moved
+
+The HackEEG-shield development has moved to https://github.com/starcat-io/hackeeg-shield 
+and this one is deprecated.
+
+The old designs are archived here, but are not under active development.
+
+
 # HackEEG - ADS1299 Shield
 
 This is an Arduino Due shield for the 
